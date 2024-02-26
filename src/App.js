@@ -1,23 +1,19 @@
-import logo from './logo.svg';
-import './App.css';
+import { Link } from "react-router-dom";
+import Button from "./components/Button";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="bg-background-50 w-full h-screen flex flex-col gap-10 items-center pt-14">
+      <h1 className='mb-4 text-2xl font-semibold'>Choose the game</h1>
+      <Link to={"/guess"}>
+        <Button text={"Guess Game"} />
+      </Link>
+      <Link to={"/write"}>
+        <Button text={"Write Game"} />
+      </Link>
+      <Link to={"/memory"}>
+        <Button text={"Memory Game"} />
+      </Link>
     </div>
   );
 }

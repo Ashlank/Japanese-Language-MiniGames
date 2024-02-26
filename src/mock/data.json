@@ -1,0 +1,522 @@
+[
+  {
+    "id": 0,
+    "letter": "あ",
+    "represents": "a"
+  },
+  {
+    "id": 1,
+    "letter": "い",
+    "represents": "i"
+  },
+  {
+    "id": 2,
+    "letter": "う",
+    "represents": "u"
+  },
+  {
+    "id": 3,
+    "letter": "え",
+    "represents": "e"
+  },
+  {
+    "id": 4,
+    "letter": "お",
+    "represents": "o"
+  },
+  {
+    "id": 5,
+    "letter": "か",
+    "represents": "ka"
+  },
+  {
+    "id": 6,
+    "letter": "き",
+    "represents": "ki"
+  },
+  {
+    "id": 7,
+    "letter": "く",
+    "represents": "ku"
+  },
+  {
+    "id": 8,
+    "letter": "け",
+    "represents": "ke"
+  },
+  {
+    "id": 9,
+    "letter": "こ",
+    "represents": "ko"
+  },
+  {
+    "id": 10,
+    "letter": "きゃ",
+    "represents": "kya"
+  },
+  {
+    "id": 11,
+    "letter": "きゅ",
+    "represents": "kyu"
+  },
+  {
+    "id": 12,
+    "letter": "きょ",
+    "represents": "kyo"
+  },
+  {
+    "id": 13,
+    "letter": "さ",
+    "represents": "sa"
+  },
+  {
+    "id": 14,
+    "letter": "し",
+    "represents": "shi"
+  },
+  {
+    "id": 15,
+    "letter": "す",
+    "represents": "su"
+  },
+  {
+    "id": 16,
+    "letter": "せ",
+    "represents": "se"
+  },
+  {
+    "id": 17,
+    "letter": "そ",
+    "represents": "so"
+  },
+  {
+    "id": 18,
+    "letter": "しゃ",
+    "represents": "sha"
+  },
+  {
+    "id": 19,
+    "letter": "しゅ",
+    "represents": "shu"
+  },
+  {
+    "id": 20,
+    "letter": "しょ",
+    "represents": "sho"
+  },
+  {
+    "id": 21,
+    "letter": "た",
+    "represents": "ta"
+  },
+  {
+    "id": 22,
+    "letter": "ち",
+    "represents": "chi"
+  },
+  {
+    "id": 23,
+    "letter": "つ",
+    "represents": "tsu"
+  },
+  {
+    "id": 24,
+    "letter": "て",
+    "represents": "te"
+  },
+  {
+    "id": 25,
+    "letter": "と",
+    "represents": "to"
+  },
+  {
+    "id": 26,
+    "letter": "ちゃ",
+    "represents": "cha"
+  },
+  {
+    "id": 27,
+    "letter": "ちゅ",
+    "represents": "chu"
+  },
+  {
+    "id": 28,
+    "letter": "ちょ",
+    "represents": "cho"
+  },
+  {
+    "id": 29,
+    "letter": "な",
+    "represents": "na"
+  },
+  {
+    "id": 30,
+    "letter": "に",
+    "represents": "ni"
+  },
+  {
+    "id": 31,
+    "letter": "ぬ",
+    "represents": "nu"
+  },
+  {
+    "id": 32,
+    "letter": "ね",
+    "represents": "ne"
+  },
+  {
+    "id": 33,
+    "letter": "の",
+    "represents": "no"
+  },
+  {
+    "id": 34,
+    "letter": "にゃ",
+    "represents": "nya"
+  },
+  {
+    "id": 35,
+    "letter": "にゅ",
+    "represents": "nyu"
+  },
+  {
+    "id": 36,
+    "letter": "にょ",
+    "represents": "nyo"
+  },
+  {
+    "id": 37,
+    "letter": "は",
+    "represents": "ha"
+  },
+  {
+    "id": 38,
+    "letter": "ひ",
+    "represents": "hi"
+  },
+  {
+    "id": 39,
+    "letter": "ふ",
+    "represents": "fu"
+  },
+  {
+    "id": 40,
+    "letter": "へ",
+    "represents": "he"
+  },
+  {
+    "id": 41,
+    "letter": "ほ",
+    "represents": "ho"
+  },
+  {
+    "id": 42,
+    "letter": "ひゃ",
+    "represents": "hya"
+  },
+  {
+    "id": 43,
+    "letter": "ひゅ",
+    "represents": "hyu"
+  },
+  {
+    "id": 44,
+    "letter": "ひょ",
+    "represents": "hyo"
+  },
+  {
+    "id": 45,
+    "letter": "ま",
+    "represents": "ma"
+  },
+  {
+    "id": 46,
+    "letter": "み",
+    "represents": "mi"
+  },
+  {
+    "id": 47,
+    "letter": "む",
+    "represents": "mu"
+  },
+  {
+    "id": 48,
+    "letter": "め",
+    "represents": "me"
+  },
+  {
+    "id": 49,
+    "letter": "も",
+    "represents": "mo"
+  },
+  {
+    "id": 50,
+    "letter": "みゃ",
+    "represents": "mya"
+  },
+  {
+    "id": 51,
+    "letter": "みゅ",
+    "represents": "myu"
+  },
+  {
+    "id": 52,
+    "letter": "みょ",
+    "represents": "myo"
+  },
+  {
+    "id": 53,
+    "letter": "や",
+    "represents": "ya"
+  },
+  {
+    "id": 54,
+    "letter": "ゆ",
+    "represents": "yu"
+  },
+  {
+    "id": 55,
+    "letter": "よ",
+    "represents": "yo"
+  },
+  {
+    "id": 56,
+    "letter": "ら",
+    "represents": "ra"
+  },
+  {
+    "id": 57,
+    "letter": "り",
+    "represents": "ri"
+  },
+  {
+    "id": 58,
+    "letter": "る",
+    "represents": "ru"
+  },
+  {
+    "id": 59,
+    "letter": "れ",
+    "represents": "re"
+  },
+  {
+    "id": 60,
+    "letter": "ろ",
+    "represents": "ro"
+  },
+  {
+    "id": 61,
+    "letter": "りゃ",
+    "represents": "rya"
+  },
+  {
+    "id": 62,
+    "letter": "りゅ",
+    "represents": "ryu"
+  },
+  {
+    "id": 63,
+    "letter": "りょ",
+    "represents": "ryo"
+  },
+  {
+    "id": 64,
+    "letter": "わ",
+    "represents": "wa"
+  },
+  {
+    "id": 65,
+    "letter": "を",
+    "represents": "o"
+  },
+  {
+    "id": 66,
+    "letter": "ん",
+    "represents": "n"
+  },
+  {
+    "id": 67,
+    "letter": "が",
+    "represents": "ga"
+  },
+  {
+    "id": 68,
+    "letter": "ぎ",
+    "represents": "gi"
+  },
+  {
+    "id": 69,
+    "letter": "ぐ",
+    "represents": "gu"
+  },
+  {
+    "id": 70,
+    "letter": "げ",
+    "represents": "ge"
+  },
+  {
+    "id": 71,
+    "letter": "ご",
+    "represents": "go"
+  },
+  {
+    "id": 72,
+    "letter": "ぎゃ",
+    "represents": "gya"
+  },
+  {
+    "id": 73,
+    "letter": "ぎゅ",
+    "represents": "gyu"
+  },
+  {
+    "id": 74,
+    "letter": "ぎょ",
+    "represents": "gyo"
+  },
+  {
+    "id": 75,
+    "letter": "ざ",
+    "represents": "za"
+  },
+  {
+    "id": 76,
+    "letter": "じ",
+    "represents": "ji"
+  },
+  {
+    "id": 77,
+    "letter": "ず",
+    "represents": "zu"
+  },
+  {
+    "id": 78,
+    "letter": "ぜ",
+    "represents": "ze"
+  },
+  {
+    "id": 79,
+    "letter": "ぞ",
+    "represents": "zo"
+  },
+  {
+    "id": 80,
+    "letter": "じゃ",
+    "represents": "ja"
+  },
+  {
+    "id": 81,
+    "letter": "じゅ",
+    "represents": "ju"
+  },
+  {
+    "id": 82,
+    "letter": "じょ",
+    "represents": "jo"
+  },
+  {
+    "id": 83,
+    "letter": "だ",
+    "represents": "da"
+  },
+  {
+    "id": 84,
+    "letter": "ぢ",
+    "represents": "ji"
+  },
+  {
+    "id": 85,
+    "letter": "づ",
+    "represents": "zu"
+  },
+  {
+    "id": 86,
+    "letter": "で",
+    "represents": "de"
+  },
+  {
+    "id": 87,
+    "letter": "ど",
+    "represents": "do"
+  },
+  {
+    "id": 88,
+    "letter": "ば",
+    "represents": "ba"
+  },
+  {
+    "id": 89,
+    "letter": "び",
+    "represents": "bi"
+  },
+  {
+    "id": 90,
+    "letter": "ぶ",
+    "represents": "bu"
+  },
+  {
+    "id": 91,
+    "letter": "べ",
+    "represents": "be"
+  },
+  {
+    "id": 92,
+    "letter": "ぼ",
+    "represents": "bo"
+  },
+  {
+    "id": 93,
+    "letter": "びゃ",
+    "represents": "bya"
+  },
+  {
+    "id": 94,
+    "letter": "びゅ",
+    "represents": "byu"
+  },
+  {
+    "id": 95,
+    "letter": "びょ",
+    "represents": "byo"
+  },
+  {
+    "id": 96,
+    "letter": "ぱ",
+    "represents": "pa"
+  },
+  {
+    "id": 97,
+    "letter": "ぴ",
+    "represents": "pi"
+  },
+  {
+    "id": 98,
+    "letter": "ぷ",
+    "represents": "pu"
+  },
+  {
+    "id": 99,
+    "letter": "ぺ",
+    "represents": "pe"
+  },
+  {
+    "id": 100,
+    "letter": "ぽ",
+    "represents": "po"
+  },
+  {
+    "id": 101,
+    "letter": "ぴゃ",
+    "represents": "pya"
+  },
+  {
+    "id": 102,
+    "letter": "ぴゅ",
+    "represents": "pyu"
+  },
+  {
+    "id": 103,
+    "letter": "ぴょ",
+    "represents": "pyo"
+  }
+]
