@@ -15,7 +15,7 @@ En la ruta principal se muestran 3 opciones para acceder a 3 minijuegos distinto
 - Se utiliza la librería de npm de react-router para brindar un client-side navigation
 - El memory game cuenta con 3 niveles de dificultad donde se añaden mas cartas
 - Al terminar los minijuegos se brinda la posibilidad de volver a jugar o volver a la ruta principal
-- App fácilmente adaptable al alfabeto o silabario de otros idiomas, como ruso, griego o coreano.
+- App fácilmente adaptable al alfabeto o silabario de otros idiomas, como ruso, griego o coreano. Cambiar el archivo data.json de la carpeta "mock"
 
 ### Deploy
 
